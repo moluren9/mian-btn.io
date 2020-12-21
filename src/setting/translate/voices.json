@@ -142,10 +142,170 @@
     {
       "name": "脑壳",
       "path": "脑壳.wav",
-      "date": "2020-12-20",
+      "date": "2020-12-21",
       "translate": {
         "zh-CN": "脑壳",
         "en-US": "脑壳"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的",
+      "path": "你○的.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的",
+        "en-US": "你○的"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的2",
+      "path": "你○的2.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的2",
+        "en-US": "你○的2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的3",
+      "path": "你○的3.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的3",
+        "en-US": "你○的3"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的4",
+      "path": "你○的4.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的4",
+        "en-US": "你○的4"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的老子",
+      "path": "你○的老子.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的老子",
+        "en-US": "你○的老子"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的老子他○的",
+      "path": "你○的老子他○的.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的老子他○的",
+        "en-US": "你○的老子他○的"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你○的老子他○的2",
+      "path": "你○的老子他○的2.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你○的老子他○的2",
+        "en-US": "你○的老子他○的2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "你怎么是个母狗啊",
+      "path": "你怎么是个母狗啊.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "你怎么是个母狗啊",
+        "en-US": "你怎么是个母狗啊"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "日死你的马",
+      "path": "日死你的马.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "日死你的马",
+        "en-US": "日死你的马"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "杀了你哦",
+      "path": "杀了你哦.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "杀了你哦",
+        "en-US": "杀了你哦"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "傻○",
+      "path": "傻○.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "傻○",
+        "en-US": "傻○"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "傻○2",
+      "path": "傻○2.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "傻○2",
+        "en-US": "傻○2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "傻○3",
+      "path": "傻○3.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "傻○3",
+        "en-US": "傻○3"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "什么嘛",
+      "path": "什么嘛.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "什么嘛",
+        "en-US": "什么嘛"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "我○",
+      "path": "我○.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "我○",
+        "en-US": "我○"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "我○2",
+      "path": "我○2.wav",
+      "date": "2020-12-21",
+      "translate": {
+        "zh-CN": "我○2",
+        "en-US": "我○2"
       },
       "category": "你妈的"
     }
