@@ -1,0 +1,153 @@
+{
+  "category": [
+    {
+      "name": "你妈的",
+      "translate": {
+        "zh-CN": "草你○的",
+        "en-US": "草你○的~"
+      }
+    }
+  ],
+  "voices": [
+    {
+      "name": "○的",
+      "path": "○的.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "○的",
+        "en-US": "○的"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "○你",
+      "path": "○你.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "○你",
+        "en-US": "○你"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "草你○",
+      "path": "草你○.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "草你○",
+        "en-US": "草你○"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "草你○的",
+      "path": "草你○的.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "草你○的",
+        "en-US": "草你○的"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "打喷嚏",
+      "path": "打喷嚏.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "打喷嚏",
+        "en-US": "打喷嚏"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "打喷嚏2",
+      "path": "打喷嚏2.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "打喷嚏2",
+        "en-US": "打喷嚏2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "恶心",
+      "path": "恶心.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "恶心",
+        "en-US": "恶心"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "恶心2",
+      "path": "恶心2.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "恶心2",
+        "en-US": "恶心2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "恶心3",
+      "path": "恶心3.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "恶心3",
+        "en-US": "恶心3"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "憨批",
+      "path": "憨批.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "憨批",
+        "en-US": "憨批"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "可爱",
+      "path": "可爱.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "可爱",
+        "en-US": "可爱"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "喵喵",
+      "path": "喵喵.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "喵喵",
+        "en-US": "喵喵"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "喵喵2",
+      "path": "喵喵2.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "喵喵2",
+        "en-US": "喵喵2"
+      },
+      "category": "你妈的"
+    },
+    {
+      "name": "脑壳",
+      "path": "脑壳.wav",
+      "date": "2020-12-20",
+      "translate": {
+        "zh-CN": "脑壳",
+        "en-US": "脑壳"
+      },
+      "category": "你妈的"
+    }
+  ]
+}

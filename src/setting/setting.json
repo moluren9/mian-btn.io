@@ -1,0 +1,40 @@
+{
+  "name": {
+    "CN": {
+      "title": "眠按钮",
+      "fullName": "Nemu"
+    },
+    "EN": {
+      "title": "Nemu Button",
+      "fullName": "Nemu"
+    }
+  },
+  "header": {
+    "youtube": "https://www.youtube.com/channel/UCtjxl1Uf9-Xk2XdpPdMrccQ",
+    "twitter": "https://twitter.com/NNemuu_",
+    "bilibili": "https://space.bilibili.com/476903292/"
+  },
+  "footer": {
+    "author": [
+      {
+        "name": "blacktunes",
+        "url": "https://github.com/blacktunes"
+      }
+    ],
+    "info": [
+      "<div>有问题请私聊<a href=\"https://space.bilibili.com/6433651\">弥栄クアム_Official</a></div>",
+      "<img style=\"margin: 5px 5px 0px -2px\" alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/blacktunes/hiiro-button?style=social\"><img style=\"margin-top: 5px\" alt=\"GitHub Repo license\" src=\"https://img.shields.io/github/license/blacktunes/hiiro-button?style=social\">"
+    ],
+    "githubUrl": "https://github.com/moluren9/mian-btn"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "GA_ID": "UA-176441751-2"
+}
