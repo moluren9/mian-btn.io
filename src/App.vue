@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <v-header />
-    <img src="../src/assets/image/bgimg.jpg" alt="" class="bgimg">
+    <img src="../src/assets/image/bgimg.jpg"  class="bgimg">
     <router-view style="min-height: calc(100vh - 48px - 67px)" />
     <control v-if="showControl" />
     <v-footer />
@@ -103,6 +103,7 @@ a
   position fixed
   height calc((100vh - 48px) - 67px)
   top 48px
+  width:100%;
   z-index: -1;
 
 ::-webkit-scrollbar
